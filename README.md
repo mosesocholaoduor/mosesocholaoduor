@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosesocholaoduor
 - 👀 I’m interested in data science,data analysis and machine learning
 - 🌱 I’m currently learning advanced dax and machine learning to forcast financial acess 
-- 💞️ I’m looking to collaborate on data analysis
+- 💞️ I’m looking to collaborate on data analysis and visualization for business intelligence
 - 📫 How to reach me email : mosesochola84@gmail.com twitter:mosesochola10 instargram:mosesochola10
 
 <!---
